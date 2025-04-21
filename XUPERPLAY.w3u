@@ -10,12 +10,14 @@
 {
 "name": "EN ESTAS SECCIÓNES ACTIVA UN VPN", 
 "image": "https://i.postimg.cc/j2hHQnXK/3dgifmaker57015.gif",
-"info": "Si No VaN AcTiVa Un VpN"
+"info": "Si No VaN AcTiVa Un VpN",
+"stations": [{}] 
 },
 {
 "name": "EN ESTAS SECCIONES ACTIVA UN VPN", 
 "image": "https://i.postimg.cc/j2hHQnXK/3dgifmaker57015.gif",
-"info": "Si No VaN AcTiVa Un VpN"
+"info": "Si No VaN AcTiVa Un VpN",
+"stations": [{}] 
 },
 {
 "name": "⭐ TV PREMIUM ⭐",
@@ -23,7 +25,8 @@
 "image": "https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/TB.PREMI.w3u",
 "info":"",
-"import": true
+"import": true,
+"stations": [{}] 
 },
 {
 "name": "⭐ TV XPORTS PREMIUM ⭐",
@@ -31,7 +34,8 @@
 "image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/TB.XPORTS.PREMI.w3u",
 "info":"",
-"import": true
+"import": true,
+"stations": [{}] 
 },
 {
 "name": "⭐ MULTI-TV PREMIUM ⭐",
