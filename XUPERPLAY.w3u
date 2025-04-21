@@ -42,6 +42,7 @@
 "online":"true",
 "url":"https://kool.to/",
 "embed": "true",
+"import": false,
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Dezor/1.0.2 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36"
 },
 {
