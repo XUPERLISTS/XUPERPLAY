@@ -25,7 +25,7 @@
 "image": "https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/TB.PREMI.w3u",
 "info":"",
-"import": true,
+"import": "true",
 "stations": [{}] 
 },
 {
@@ -34,7 +34,7 @@
 "image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/TB.XPORTS.PREMI.w3u",
 "info":"",
-"import": true,
+"import": "true",
 "stations": [{}] 
 },
 {
