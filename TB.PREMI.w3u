@@ -15,6 +15,33 @@
 "info": "👇Recuerda Activar Un VPN👇"
 },
 {
+"name": "AXN",
+"image": "https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png",
+"url": "http://1.84423.xyz:8000/live/PSG@273Res/0OPSGMessi24/126364.ts",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+"name": "AXN WHITE",
+"image": "https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png",
+"url": "http://1.84423.xyz:8000/live/PSG@273Res/0OPSGMessi24/126366.ts",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+"name": "AMC",
+"image": "https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png",
+"url": "http://1.84423.xyz:8000/live/PSG@273Res/0OPSGMessi24/126368.ts",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
 "name": "TCM HD",
 "image": "https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126161",
@@ -288,6 +315,24 @@
 "name": "MOVISTAR TAQUILLA 5",
 "image": "https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126190",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+"name": "MOVISTAR ESTRENOS",
+"image": "https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png",
+"url": "http://1.84423.xyz:8000/live/PSG@273Res/0OPSGMessi24/126376.ts",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+"name": "M + ORIGINALES",
+"image": "https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png",
+"url": "http://1.84423.xyz:8000/live/PSG@273Res/0OPSGMessi24/225557.ts",
 "embed": "",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
