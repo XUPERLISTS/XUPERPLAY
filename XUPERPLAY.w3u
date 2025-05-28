@@ -20,9 +20,18 @@
 "stations": [{}] 
 },
 {
-"name": "⭐ TV PREMIUM ⭐",
+"name": "⭐ TV PREMIUM 1 ⭐",
 "text-align": "center;",
-"image": "https://i.postimg.cc/YqvtYz0r/logo4-20-205617.png",
+"image": "https://i.postimg.cc/C5FJNdsb/logo5-28-212551.png",
+"url": "https://raw.githubusercontent.com/pigzillaaaaa/vavoo/main/vavoo_app.m3u8",
+"info":"",
+"import": "true",
+"stations": [{}] 
+},
+{
+"name": "⭐ TV PREMIUM 2 ⭐",
+"text-align": "center;",
+"image": "https://i.postimg.cc/0jnPNtfD/logo5-28-212633.png",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/TB.PREMI.w3u",
 "info":"",
 "import": "true",
