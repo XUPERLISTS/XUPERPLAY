@@ -15,6 +15,51 @@
 "info": "👇Recuerda Activar Un VPN👇"
 },
 {
+"name": "DAZN F1",
+"image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/126454",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+"name": "DAZN 1",
+"image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4354",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+"name": "DAZN MOTO GP",
+"image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/160936",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+"name": "MOVISTAR F1",
+"image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4355",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+"name": "MOVISTAR GOLF",
+"image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4356",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
 "name": "VAMOS",
 "image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4295",
@@ -27,6 +72,24 @@
 "name": "BARÇA TV",
 "image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
 "url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4296",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+"name": "ONETORO TV",
+"image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/4362",
+"embed": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"isHost": ""
+},
+{
+"name": "LALIGA HYPERMOTION",
+"image": "https://i.postimg.cc/FRz9TzNJ/logo4-21-12646.png",
+"url": "http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/175094",
 "embed": "",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
