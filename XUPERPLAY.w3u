@@ -20,7 +20,16 @@
 "stations": [{}] 
 },
 {
-"name": "⭐ TV PREMIUM 1 ⭐",
+"name": "⭐ TV PREMIUM 1 ⭐ ( SIN VPN )",
+"text-align": "center;",
+"image": "https://i.postimg.cc/C5FJNdsb/logo5-28-212551.png",
+"url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/TINWORLD.Aces.android.Ios.m3u",
+"info":"",
+"import": "true",
+"stations": [{}] 
+},
+{
+"name": "⭐ TV PREMIUM 2 ⭐",
 "text-align": "center;",
 "image": "https://i.postimg.cc/C5FJNdsb/logo5-28-212551.png",
 "url": "https://raw.githubusercontent.com/SuperNova-Repo/Vavuu-IPTV/main/Vavoo-IPTV-All_Countries.m3u8",
@@ -29,7 +38,7 @@
 "stations": [{}] 
 },
 {
-"name": "⭐ TV PREMIUM 2 ⭐",
+"name": "⭐ TV PREMIUM 3 ⭐",
 "text-align": "center;",
 "image": "https://i.postimg.cc/0jnPNtfD/logo5-28-212633.png",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/TB.PREMI.w3u",
